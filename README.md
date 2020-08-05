@@ -1,6 +1,6 @@
 ### Hi there 👋, 
 I'm Andy and I am (suprise suprise) a Software Developer.
-I am UK based, currently living in the West Midlands.
+I am UK based, freelance, and currently living in the West Midlands.
 
 I don't have a main language as such, I try to use the best solution for the problem at hand.
 
